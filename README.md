@@ -12,4 +12,4 @@ This will simulate the intended mobile screen size.
 ## Credits
 - Code starter snippets were generated with the assistance of [ChatGPT (OpenAI)](https://openai.com/) and then modified by me.  
 - Icons are from [Figma Community](https://www.figma.com/community).  
-- The UPenn shield logo and some layout/size references are adapted from the official Path@Penn interface.  
+- The UPenn shield logo and some color/size references are adapted from the official Path@Penn interface.  
